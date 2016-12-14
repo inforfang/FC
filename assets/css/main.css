@@ -1195,7 +1195,7 @@
 .action-button
 {
 	position: relative;
-	padding: 10px 40px;
+	padding: 10px 35px;
  	margin: 0px 10px 10px 0px;
   	float: left;
 	border-radius: 10px;
@@ -1236,6 +1236,6 @@
 .action-button:active
 {
 	transform: translate(0px,5px);
-          -webkit-transform: translate(0px,5px);
-	border-bottom: 1px solid;
+    -webkit-transform: translate(0px,5px);
+	/*border-bottom: 1px solid;*/
 }
